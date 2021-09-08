@@ -20,7 +20,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "@item().name",
 				"container": "file"
 			},
 			"columnDelimiter": ",",
