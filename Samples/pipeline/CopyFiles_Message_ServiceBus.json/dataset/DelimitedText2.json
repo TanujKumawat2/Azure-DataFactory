@@ -20,7 +20,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "hello*.csv",
 				"container": "file"
 			},
 			"columnDelimiter": ",",
